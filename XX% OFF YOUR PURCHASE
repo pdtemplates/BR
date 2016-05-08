@@ -7,6 +7,9 @@
   color:#000;
   font-family: Futura, sans-serif;
 }
+.xx123 p {
+    margin: 0
+}
 .exclusive {
   font-size:1em;
   font-weight: 700;
