@@ -7,6 +7,7 @@
   font-size:10px;
   color:#000;
   font-family: Futura, sans-serif;
+  padding-top: 6px;
 }
 .xx123 p {
     margin: 0
