@@ -1,5 +1,8 @@
 <style>
 .xx123 {
+  height:100%;
+  width:100%;
+  background-color:#DDD;
   font-size:10px;
   color:#000;
   font-family: Futura, sans-serif;
