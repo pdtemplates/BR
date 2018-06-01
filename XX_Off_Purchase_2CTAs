@@ -74,17 +74,17 @@ cursor:pointer;
 </style>	
 <div id="XX_Off_Purchase">
 <div id="XX_Off_Inner-wrapper">
-    <a class="pd_div-wrapper" mlink="PD_1_BKGD_BRFS" href="/browse/category.do?cid=1045361">
-	<div id="XX_Off_Purchase-PercentOff">30% OFF</div>
+    <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=1014739">
+	<div id="XX_Off_Purchase-PercentOff">EXTRA 40% OFF</div>
 	<div id="XX_Off_Purchase-DiscountType">YOUR PURCHASE</div>
 	<div id="XX_Off_Purchase-DiscountDetails">Online only. Code: <b>TREAT</b></div>
 	<div id="XX_Off_Purchase-CTA-wrapper">
 		<div class="XX_Off_Purchase-CTA">
-			<a href="http://bananarepublicfactory.gapfactory.com/browse/category.do?cid=1045503" mlink="PD_1_M_BRFS">MEN
+			<a href="https://bananarepublic.gap.com/browse/category.do?cid=1014757" mlink="MOB_DR_M_2">MEN
 			</a>
 		</div>
 		<div class="XX_Off_Purchase-CTA">
-			<a href="http://bananarepublicfactory.gapfactory.com/browse/category.do?cid=1045361" mlink="PD_1_W_BRFS">WOMEN
+			<a href="https://bananarepublic.gap.com/browse/category.do?cid=1014739" mlink="MOB_DR_W_2">WOMEN
 			</a>
 		</div>
 	</div>
