@@ -1,92 +1,100 @@
 <style>
-	#XX_Off_Purchase {
-		width:100%;
-		height:100%;
-		color:#000000;
-		background:#000000;
-		font-family: futura-pt, futura;
-		text-align:center;
-		position:relative;
-	}
-#XX_Off_Inner-wrapper { 
-width:98%;
-position:absolute;
-top:50%;
-left:50%;
-transform:translate(-50%,-50%);
--webkit-transform:translate(-50%,-50%);
--moz-transform:translate(-50%,-50%);
+.XX_Off_Purchase {
+  width:100%;
+  height:100%;
+  background: url("/Asset_Archive/BRWeb/content/0014/432/618/assets/pd_bg_image_test.jpg") no-repeat;
+  font-family: futura-pt, futura;
+  text-align:center;
+  position:relative;
 }
-	#XX_Off_Purchase-PercentOff {
-		color:#000000;
-		font-size:4.25em;
-		font-weight:bold;
-		line-height:1
-	}
-	#XX_Off_Purchase-DiscountType {
-		color:#000000;
-		font-size:1.75em;
-		font-weight:900;
-		letter-spacing:.075em;
-		line-height:1
-	}
-	#XX_Off_Purchase-DiscountDetails {
-		font-size:1.25em;
-		line-height:2;
-color:#000;
-	}
-	#XX_Off_Purchase-HeaderCTA {
-		font-size:1.3em;
-		letter-spacing:.075em;
-		font-weight:bold;
-		line-height:1;
-color:#000;
-	}
-	#XX_Off_Purchase-CTA-wrapper {
-		width:100%;
-	}
-	.XX_Off_Purchase-CTA {
-		background-color:#FFFFFF;
-border-style: solid;
-border-width: 0.5px;
-		display:inline-block;
-		width: calc(50% - 36px);
-		margin: 15px 4px 0 4px;
-		vertical-align: top;
-		padding:7px 10px;
-		letter-spacing:.1em;
-cursor:pointer;
-	}
-	.XX_Off_Purchase-CTA a {
-		font-size:1.1em;
-		font-weight:600;
-		color:#000;
-text-decoration:none;
-cursor:pointer;
-width:100%;
-display:block;
-	}
-a.pd_div-wrapper {
-text-decoration:none;
-cursor:pointer;
+.XX_Off_Inner-wrapper {
+  width:98%;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  -webkit-transform:translate(-50%,-50%);
+  -moz-transform:translate(-50%,-50%);
+}
+.XX_Off_Inner-wrapper .channel {
+  color: #ffffff;
+  padding-top: 0em;
+  padding-bottom: .5em;
+  font-size: .8em;
+  line-height: 1em;
+  font-weight: 100;
+  letter-spacing: .25em;
+}
+.XX_Off_Purchase-PercentOff {
+  color: #ffffff;
+  font-size: 5em;
+  font-weight: bold;
+  line-height: .85em;
+}
+.XX_Off_Purchase-DiscountType {
+  color: #ffffff;
+  font-size: 1.5em;
+  font-weight: 100;
+  letter-spacing: .075em;
+  line-height: 1em;
+}
+.XX_Off_Purchase-DiscountDetails {
+  font-size: .8em;
+  padding-top: 1em;
+  color: #000;
+  letter-spacing: .2em;
+  font-weight: 600;
+}
+.XX_Off_Purchase-HeaderCTA {
+  font-size:1.3em;
+  letter-spacing:.075em;
+  font-weight:bold;
+  line-height:1;
+  color:#000;
+}
+.XX_Off_Purchase-CTA-wrapper {
+  width:100%;
 }
 
-</style>	
-<div id="XX_Off_Purchase">
-<div id="XX_Off_Inner-wrapper">
+.XX_Off_Purchase-CTA {
+  background-color: #000000;
+  border-style: solid;
+  border-width: 0.5px;
+  display: inline-block;
+  width: calc(50% - 36px);
+  margin: 9px 4px 0 4px;
+  vertical-align: top;
+  padding: 6px 7px;
+  letter-spacing: .1em;
+}
+.XX_Off_Purchase-CTA a {
+  font-size:.8em;
+  font-weight:100;
+  color:#ffffff;
+  text-decoration:none;
+  width:100%;
+  display:block;
+}
+a.pd_div-wrapper {
+  text-decoration:none;
+  cursor:pointer;
+}
+</style>
+<div class="XX_Off_Purchase">
+  <div class="XX_Off_Inner-wrapper">
     <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=1014739">
-	<div id="XX_Off_Purchase-PercentOff">EXTRA 40% OFF</div>
-	<div id="XX_Off_Purchase-DiscountType">YOUR PURCHASE</div>
-	<div id="XX_Off_Purchase-DiscountDetails">Online only. Code: <b>TREAT</b></div>
-	<div id="XX_Off_Purchase-CTA-wrapper">
-		<div class="XX_Off_Purchase-CTA">
-			<a href="https://bananarepublic.gap.com/browse/category.do?cid=1014757" mlink="MOB_DR_M_2">MEN
-			</a>
-		</div>
-		<div class="XX_Off_Purchase-CTA">
-			<a href="https://bananarepublic.gap.com/browse/category.do?cid=1014739" mlink="MOB_DR_W_2">WOMEN
-			</a>
-		</div>
-	</div>
-</div>
+      <div class="channel">HEADLINE GOES HERE</div>
+      <div class="XX_Off_Purchase-PercentOff">40%</div>
+    	<div class="XX_Off_Purchase-DiscountType">off your purchase</div>
+    	<div class="XX_Off_Purchase-DiscountDetails">EXCLUSIVELY ONLINE</div>
+    	<div class="XX_Off_Purchase-CTA-wrapper">
+    		<div class="XX_Off_Purchase-CTA">
+                   <a href="https://bananarepublic.gap.com/browse/category.do?cid=1014739" mlink="MOB_DR_W_2">SHOP WOMEN</a>
+    		</div>
+    		<div class="XX_Off_Purchase-CTA">
+                   <a href="https://bananarepublic.gap.com/browse/category.do?cid=1014757" mlink="MOB_DR_M_2">SHOP MEN</a>
+    		</div>
+    	</div>
+    </a>
+  </div>
 </div>
