@@ -27,7 +27,7 @@
 }
 .XX_Off_Purchase-PercentOff {
     color: #ffffff;
-    font-size: 7em;
+    font-size: 5em;
     font-weight: bold;
     line-height: .85em;
 }
@@ -65,7 +65,7 @@
     width: calc(50% - 36px);
     margin: 12px 4px 0 4px;
     vertical-align: top;
-    padding: 6px 3px;
+    padding: 6px 4px;
     letter-spacing: .1em;
 }
 .XX_Off_Purchase-CTA a {
