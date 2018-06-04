@@ -31,6 +31,14 @@
     font-weight: bold;
     line-height: .85em;
 }
+.XX_Off_Purchase-PercentSymbol {
+    position: absolute;
+    top: 20%;
+    left: 65%;
+    color: #fff;
+    font-size: 2em;
+    font-weight: 700;
+}
 .XX_Off_Purchase-DiscountType {
     color: #ffffff;
     font-size: 1.25em;
@@ -85,7 +93,8 @@ a.pd_div-wrapper {
   <div class="XX_Off_Inner-wrapper">
     <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=1014739">
       <div class="channel">HEADLINE GOES HERE</div>
-      <div class="XX_Off_Purchase-PercentOff">40%</div>
+      <div class="XX_Off_Purchase-PercentOff">40</div>
+      <div class="XX_Off_Purchase-PercentSymbol">%</div>      
     	<div class="XX_Off_Purchase-DiscountType">off your purchase</div>
     	<div class="XX_Off_Purchase-DiscountDetails">EXCLUSIVELY ONLINE</div>
     	<div class="XX_Off_Purchase-CTA-wrapper">
