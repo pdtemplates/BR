@@ -22,21 +22,21 @@
     padding-bottom: .5em;
     font-size: 1em;
     line-height: 0.25em;
-    font-weight: 100;
+    font-weight: 700;
     letter-spacing: .1em;
 }
 .XX_Off_Purchase-PercentOff {
     color: #ffffff;
-    font-size: 7em;
+    font-size: 8em;
     font-weight: bold;
     line-height: .85em;
 }
 .XX_Off_Purchase-PercentSymbol {
     position: absolute;
-    top: 20%;
-    left: 65%;
+    top: 26%;
+    left: 66%;
     color: #fff;
-    font-size: 2.5em;
+    font-size: 2.25em;
     font-weight: 700;
 }
 .XX_Off_Purchase-DiscountType {
@@ -47,8 +47,8 @@
     line-height: 1em;
 }
 .XX_Off_Purchase-DiscountDetails {
-    font-size: 1em;
-    padding-top: 1em;
+    font-size: .75em;
+    padding-top: 1.5em;
     color: #000;
     letter-spacing: .1em;
     font-weight: 600;
