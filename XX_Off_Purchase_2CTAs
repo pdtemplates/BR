@@ -33,7 +33,7 @@
 }
 .XX_Off_Purchase-PercentSymbol {
     position: absolute;
-    top: 26%;
+    top: 23%;
     left: 66%;
     color: #fff;
     font-size: 2.25em;
@@ -41,9 +41,9 @@
 }
 .XX_Off_Purchase-DiscountType {
     color: #ffffff;
-    font-size: 1.25em;
+    font-size: 1.6em;
     font-weight: 100;
-    letter-spacing: .1em;
+    letter-spacing: .05em;
     line-height: 1em;
 }
 .XX_Off_Purchase-DiscountDetails {
