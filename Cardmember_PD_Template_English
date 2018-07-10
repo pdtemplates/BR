@@ -44,7 +44,7 @@
   font-weight: bold;
   line-height: .85em;
   letter-spacing: -.15em;
-  padding-left: 22%
+  padding-left: 16%
 }
 .Cardmember_PD-PercentSymbol {
   position: absolute;
@@ -125,3 +125,4 @@ a.pd_div-wrapper {
     </a>
   </div>
 </div>
+
