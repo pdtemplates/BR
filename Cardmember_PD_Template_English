@@ -18,32 +18,41 @@
 }
 .Cardmember_Inner-wrapper .channel {
   color: #ffffff;
-  padding-top: 1em;
-  padding-bottom: .5em;
-  font-size: 1em;
-  line-height: 0.25em;
+  padding-top: 0em;
+  padding-bottom: 0.25em;
+  font-size: .85em;
+  line-height: 1.5em;
   font-weight: 700;
   letter-spacing: .1em;
 }
+.Cardmember_Percent_Div {
+  position: relative;
+}
 .Cardmember_PD-Extra {
   color: #000;
-  font-size: 8em;
+  font-size: 2.25em;
   font-weight: bold;
   line-height: .85em;
+  position: absolute;
+  top: 30%;
+  left: 22%;
+  letter-spacing: .05em
 }
 .Cardmember_PD-PercentOff {
   color: #ffffff;
-  font-size: 8em;
+  font-size: 5em;
   font-weight: bold;
   line-height: .85em;
+  letter-spacing: -.15em;
+  padding-left: 22%
 }
 .Cardmember_PD-PercentSymbol {
   position: absolute;
-  top: 23%;
-  left: 66%;
+  top: 20%;
+  left: 70%;
   color: #000;
-  font-size: 2.25em;
-  font-weight: 700;
+  font-size: 2em;
+  font-weight: 900;
 }
 .Cardmember_PD-DiscountCopy {
   color: #ffffff;
@@ -54,8 +63,8 @@
 }
 .Cardmember_PD-DiscountDetails {
   font-size: .75em;
-  padding-top: 1.5em;
-  color: #000;
+  padding-top: 1em;
+  color: #fff;
   letter-spacing: .1em;
   font-weight: 600;
   line-height: .5em;
@@ -97,10 +106,12 @@ a.pd_div-wrapper {
 <div class="Cardmember_PD">
   <div class="Cardmember_Inner-wrapper">
     <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=1014739">
-      <div class="channel">CARDMEMBER EXCLUSIVE<br />NOW THROUGH JULY 21, 2018</div>
-      <div class="Cardmember_PD-Extra">EXTRA</div>
-      <div class="Cardmember_PD-PercentOff">10</div>
-      <div class="Cardmember_PD-PercentSymbol">%</div>
+      <div class="channel">CARDMEMBER EXCLUSIVE<br />NOW THROUGH JULY 31, 2018</div>
+      <div class="Cardmember_Percent_Div">
+        <div class="Cardmember_PD-Extra">EXTRA</div>
+        <div class="Cardmember_PD-PercentOff">10</div>
+        <div class="Cardmember_PD-PercentSymbol">%</div>
+      </div>
     	<div class="Cardmember_PD-DiscountCopy">off your purchase every day</div>
     	<div class="Cardmember_PD-DiscountDetails">when you use your Gap Inc. Credit Card</div>
     	<div class="Cardmember_PD-CTA-wrapper">
