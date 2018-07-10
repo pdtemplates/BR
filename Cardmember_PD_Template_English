@@ -2,7 +2,7 @@
 .Cardmember_PD {
   width:100%;
   height:100%;
-  background-color: #B39F89;
+  background-color: #b09f8a;
   font-family: futura-pt, futura;
   text-align:center;
   position:relative;
@@ -125,4 +125,3 @@ a.pd_div-wrapper {
     </a>
   </div>
 </div>
-
