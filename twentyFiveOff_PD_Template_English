@@ -48,7 +48,7 @@
 }
 .XX_Off_Purchase-DiscountDetails {
   font-size: .75em;
-  padding-top: 1em;
+  padding-top: .5em;
   color: #fff;
   letter-spacing: .1em;
   font-weight: 600;
@@ -70,7 +70,7 @@
   border-width: 0.5px;
   display: inline-block;
   width: calc(50% - 36px);
-  margin: 8px 4px 0 4px;
+  margin: 4px 4px 0 4px;
   vertical-align: top;
   padding: 3px 4px;
   letter-spacing: .1em;
