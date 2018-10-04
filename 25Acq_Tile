@@ -1,7 +1,7 @@
 <style>
 .twentyFiveAcq_Tile {
-  width:100%;
-  height:100%;
+  width:96%;
+  height:95%;
   border: 5px solid #D5D4CF;
   background-color: #F4F4F4;
   font-family: futura-pt, futura;
@@ -18,12 +18,12 @@
   -moz-transform:translate(-50%,-50%);
 }
 .twentyFiveAcq_Inner-wrapper .channel {
-  color: #B5B5B5;
+  color: #707070;
   padding-top: 0em;
   padding-bottom: 0.25em;
   font-size: .85em;
   line-height: 1.5em;
-  font-weight: 700;
+  font-weight: 100;
   letter-spacing: .1em;
 }
 .twentyFiveAcq_Percent_Div {
@@ -31,52 +31,53 @@
 }
 .twentyFiveAcq_Tile-Extra {
   color: #524B39;
-  font-size: 2.25em;
+  font-size: 1.25em;
   font-weight: bold;
   line-height: .85em;
   position: absolute;
-  top: 30%;
-  left: 22%;
+  top: 5%;
+  left: 30%;
   letter-spacing: .05em
 }
 .twentyFiveAcq_Tile-PercentOff {
   color: #524B39;
-  font-size: 5em;
+  font-size: 5.5em;
   font-weight: bold;
   line-height: .85em;
-  letter-spacing: -.15em;
-  padding-left: 16%
+  margin-left: -10%;
+  padding-top: 6%;
 }
 .twentyFiveAcq_Tile-PercentSymbol {
   position: absolute;
   top: 20%;
-  left: 70%;
+  left: 59.5%;
   color: #524B39;
-  font-size: 2em;
+  font-size: 3em;
   font-weight: 900;
 }
 .twentyFiveAcq_Tile-DiscountCopy {
   color: #524B39;
-  font-size: 1.6em;
-  font-weight: 100;
+  font-size: 1em;
+  font-weight: 600;
   letter-spacing: .05em;
-  line-height: 1em;
+  padding-top: .1em;
 }
 .twentyFiveAcq_Tile-DiscountDetails {
-  font-size: .75em;
+  font-size: .65em;
   padding-top: 1em;
   color: #524B39;
   letter-spacing: .1em;
   font-weight: 600;
   line-height: .5em;
+  margin-bottom: 1em;
 }
 .twentyFiveAcq_Tile-OffCopy {
-  font-size: .75em;
-  padding-top: 1em;
+  position: absolute;
+  top: 65%;
+  left: 59%;
+  font-size: 1.5em;
   color: #524B39;
-  letter-spacing: .1em;
   font-weight: 600;
-  line-height: .5em;
 }
 a.pd_div-wrapper {
   text-decoration:none;
