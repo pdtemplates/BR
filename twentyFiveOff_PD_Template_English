@@ -90,7 +90,7 @@ a.pd_div-wrapper {
 </style>
 <div class="XX_Off_Purchase">
   <div class="XX_Off_Inner-wrapper">
-    <a class="pd_div-wrapper" mlink="MOB_DR_BG" href="/browse/category.do?cid=1014739">
+    <a class="pd_div-wrapper" mlink="MOB_DR_BG" href="/profile/info.do?cid=53443&mlink=48422,,MOB_DR_EMAIL_REG">
       <div class="channel">JOIN OUR EMAIL LIST AND RECEIVE</div>
       <div class="XX_Off_Purchase-PercentOff">25</div>
       <div class="XX_Off_Purchase-PercentSymbol">%</div>
@@ -98,7 +98,7 @@ a.pd_div-wrapper {
     	<div class="XX_Off_Purchase-DiscountDetails">Get exclusive access to new arrivals, events and special offers.</div>
     	<div class="XX_Off_Purchase-CTA-wrapper">
     		<div class="XX_Off_Purchase-CTA">
-          <a href="/browse/category.do?cid=1014739" mlink="MOB_DR_SIGNUP">SIGN UP NOW</a>
+          <a href="/profile/info.do?cid=53443&mlink=48422,,MOB_DR_EMAIL_REG" mlink="MOB_DR_SIGNUP">SIGN UP NOW</a>
     		</div>
     	</div>
     </a>
