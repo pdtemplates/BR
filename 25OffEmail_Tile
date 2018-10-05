@@ -1,5 +1,5 @@
 <style>
-.XX_Off_Purchase {
+.twentyFiveOff_email_Purchase {
   width:100%;
   height:100%;
   background: url("/Asset_Archive/BRWeb/content/0014/432/618/assets/pd_template_bg_25OffPurchase.jpg") no-repeat;
@@ -7,7 +7,7 @@
   text-align:center;
   position:relative;
 }
-.XX_Off_Inner-wrapper {
+.twentyFiveOff_email_Inner-wrapper {
   width:98%;
   position:absolute;
   top:50%;
@@ -16,7 +16,7 @@
   -webkit-transform:translate(-50%,-50%);
   -moz-transform:translate(-50%,-50%);
 }
-.XX_Off_Inner-wrapper .channel {
+.twentyFiveOff_email_Inner-wrapper .channel {
   color: #ffffff;
   padding-top: .5em;
   padding-bottom: .5em;
@@ -25,13 +25,13 @@
   font-weight: 700;
   letter-spacing: .1em;
 }
-.XX_Off_Purchase-PercentOff {
+.twentyFiveOff_email_Purchase-PercentOff {
   color: #ffffff;
   font-size: 7em;
   font-weight: bold;
   line-height: .85em;
 }
-.XX_Off_Purchase-PercentSymbol {
+.twentyFiveOff_email_Purchase-PercentSymbol {
   position: absolute;
   top: 20%;
   left: 65%;
@@ -39,14 +39,14 @@
   font-size: 2em;
   font-weight: 700;
 }
-.XX_Off_Purchase-DiscountType {
+.twentyFiveOff_email_Purchase-DiscountType {
   color: #ffffff;
   font-size: 1.25em;
   font-weight: 100;
   letter-spacing: .05em;
   line-height: 1em;
 }
-.XX_Off_Purchase-DiscountDetails {
+.twentyFiveOff_email_Purchase-DiscountDetails {
   font-size: 1em;
   padding-top: .5em;
   color: #fff;
@@ -54,17 +54,17 @@
   font-weight: 600;
   line-height: 1.5em;
 }
-.XX_Off_Purchase-HeaderCTA {
+.twentyFiveOff_email_Purchase-HeaderCTA {
   font-size:1.3em;
   letter-spacing:.075em;
   font-weight:bold;
   line-height:1;
   color:#000;
 }
-.XX_Off_Purchase-CTA-wrapper {
+.twentyFiveOff_email_Purchase-CTA-wrapper {
   width:100%;
 }
-.XX_Off_Purchase-CTA {
+.twentyFiveOff_email_Purchase-CTA {
   background-color: #000000;
   border-style: solid;
   border-width: 0.5px;
@@ -75,7 +75,7 @@
   padding: 3px 4px;
   letter-spacing: .1em;
 }
-.XX_Off_Purchase-CTA a {
+.twentyFiveOff_email_Purchase-CTA a {
   font-size: .85em;
   font-weight: 700;
   color: #ffffff;
@@ -88,16 +88,16 @@ a.pd_div-wrapper {
   cursor:pointer;
 }
 </style>
-<div class="XX_Off_Purchase">
-  <div class="XX_Off_Inner-wrapper">
+<div class="twentyFiveOff_email_Purchase">
+  <div class="twentyFiveOff_email_Inner-wrapper">
     <a class="pd_div-wrapper" mlink="MOB_DR_BG" href="/profile/info.do?cid=53443&mlink=48422,,MOB_DR_EMAIL_REG">
       <div class="channel">JOIN OUR EMAIL LIST AND RECEIVE</div>
-      <div class="XX_Off_Purchase-PercentOff">25</div>
-      <div class="XX_Off_Purchase-PercentSymbol">%</div>
-    	<div class="XX_Off_Purchase-DiscountType">off your purchase</div>
-    	<div class="XX_Off_Purchase-DiscountDetails">Get exclusive access to new arrivals, events and special offers.</div>
-    	<div class="XX_Off_Purchase-CTA-wrapper">
-    		<div class="XX_Off_Purchase-CTA">
+      <div class="twentyFiveOff_email_Purchase-PercentOff">25</div>
+      <div class="twentyFiveOff_email_Purchase-PercentSymbol">%</div>
+    	<div class="twentyFiveOff_email_Purchase-DiscountType">off your purchase</div>
+    	<div class="twentyFiveOff_email_Purchase-DiscountDetails">Get exclusive access to new arrivals, events and special offers.</div>
+    	<div class="twentyFiveOff_email_Purchase-CTA-wrapper">
+    		<div class="twentyFiveOff_email_Purchase-CTA">
           <a href="/profile/info.do?cid=53443&mlink=48422,,MOB_DR_EMAIL_REG" mlink="MOB_DR_SIGNUP">SIGN UP NOW</a>
     		</div>
     	</div>
