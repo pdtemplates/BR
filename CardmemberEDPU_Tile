@@ -2,7 +2,7 @@
 .Cardmember_PD {
   width:100%;
   height:100%;
-  background-color: #b09f8a;
+  background-color: #000;
   font-family: futura-pt, futura;
   text-align:center;
   position:relative;
@@ -20,10 +20,16 @@
   color: #ffffff;
   padding-top: 0em;
   padding-bottom: 0.25em;
-  font-size: .85em;
+  font-size: 1.25em;
   line-height: 1.5em;
   font-weight: 700;
   letter-spacing: .1em;
+}
+.Cardmember_Inner-wrapper .channel span.cardmember_copy {
+  font-weight: normal;
+}
+.Cardmember_Inner-wrapper .channel span.exclusive_copy {
+  font-weight: bold;
 }
 .Cardmember_Percent_Div {
   position: relative;
@@ -106,7 +112,7 @@ a.pd_div-wrapper {
 <div class="Cardmember_PD">
   <div class="Cardmember_Inner-wrapper">
     <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=1014739">
-      <div class="channel">CARDMEMBER EXCLUSIVE<br />NOW THROUGH JULY 31, 2018</div>
+      <div class="channel"><span class="cardmember_copy">CARDMEMBER</span> <span class="exclusive_copy">EXCLUSIVE</span></div>
       <div class="Cardmember_Percent_Div">
         <div class="Cardmember_PD-Extra">EXTRA</div>
         <div class="Cardmember_PD-PercentOff">10</div>
