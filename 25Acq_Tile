@@ -36,7 +36,7 @@
   line-height: 1em;
   position: absolute;
   top: 5%;
-  left: 30%;
+  left: 35%;
   letter-spacing: .05em
 }
 .twentyFiveAcq_Tile-PercentOff {
