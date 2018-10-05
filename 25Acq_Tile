@@ -36,8 +36,9 @@
   line-height: 1em;
   position: absolute;
   top: 5%;
-  left: 35%;
-  letter-spacing: .05em
+  left: 0;
+  letter-spacing: .05em;
+  width: 100%;
 }
 .twentyFiveAcq_Tile-PercentOff {
   color: #524B39;
