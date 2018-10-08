@@ -21,7 +21,7 @@
     color: #ffffff;
     padding-top: 1em;
     padding-bottom: .5em;
-    font-size: 1em;
+    font-size: 1.25em;
     line-height: 0.25em;
     font-weight: 700;
     letter-spacing: .1em;
@@ -34,26 +34,26 @@
 }
 .XX_Off_Purchase-PercentSymbol {
     position: absolute;
-    top: 23%;
-    left: 66%;
-    color: #fff;
-    font-size: 2.25em;
-    font-weight: 700;
+    top: 24%;
+    left: 60.5%;
+    color: red;
+    font-size: 2.5em;
+    font-weight: 900;
 }
 .XX_Off_Purchase-DiscountType {
     color: #ffffff;
-    font-size: 1.6em;
-    font-weight: 100;
+    font-size: 1.25em;
+    font-weight: 900;
     letter-spacing: .05em;
     line-height: 1em;
 }
 .XX_Off_Purchase-DiscountDetails {
-    font-size: .75em;
-    padding-top: 1.5em;
-    color: #000;
-    letter-spacing: .1em;
-    font-weight: 600;
-    line-height: .5em;
+  font-size: 1em;
+  padding-top: .75em;
+  color: red;
+  letter-spacing: .1em;
+  font-weight: 600;
+  line-height: .5em;
 }
 .XX_Off_Purchase-HeaderCTA {
   font-size:1.3em;
