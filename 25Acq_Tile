@@ -70,7 +70,7 @@
   color: #524B39;
   letter-spacing: .1em;
   font-weight: 600;
-  line-height: .5em;
+  line-height: 1.25em;
   margin-bottom: 1em;
 }
 .twentyFiveAcq_Tile-OffCopy {
@@ -97,7 +97,7 @@ a.pd_div-wrapper {
         <div class="twentyFiveAcq_Tile-OffCopy">OFF*</div>
       </div>
     	<div class="twentyFiveAcq_Tile-DiscountCopy">YOUR FIRST PURCHASE</div>
-    	<div class="twentyFiveAcq_Tile-DiscountDetails">WHEN YOU USE YOUR BANANA REPUBLIC CREDIT CARD</div>
+    	<div class="twentyFiveAcq_Tile-DiscountDetails">WHEN YOU USE YOUR BANANA REPUBLIC<br />CREDIT CARD</div>
       <div class="channel">No Banana Republic merchandise exclusions</div>
     </a>
   </div>
