@@ -6,6 +6,7 @@
   font-family: futura-pt, futura;
   text-align:center;
   position:relative;
+  background-size: 100%;
 }
 .twentyFiveOff_email_Inner-wrapper {
   width:98%;
