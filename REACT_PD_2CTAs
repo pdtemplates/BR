@@ -7,6 +7,7 @@
   font-family: futura-pt, futura;
   text-align:center;
   position:relative;
+  background-size: 100%;
 }
 .XX_Off_Inner-wrapper {
   width:98%;
@@ -64,6 +65,7 @@
 }
 .XX_Off_Purchase-CTA-wrapper {
   width:100%;
+  margin-top: 27%;
 }
 
 .XX_Off_Purchase-CTA {
