@@ -52,7 +52,7 @@
 .twentyFiveAcq_Tile-PercentSymbol {
   position: absolute;
   top: 12%;
-  left: 59.5%;
+  left: 61%;
   color: #524B39;
   font-size: 4em;
   font-weight: bold;
@@ -66,17 +66,17 @@
 }
 .twentyFiveAcq_Tile-DiscountDetails {
   font-size: .75em;
-  padding-top: 1em;
+  padding-top: .5em;
   color: #524B39;
   letter-spacing: .1em;
   font-weight: 600;
   line-height: 1.25em;
-  margin-bottom: 1em;
+  margin-bottom: .5em;
 }
 .twentyFiveAcq_Tile-OffCopy {
   position: absolute;
   top: 67%;
-  left: 60%;
+  left: 62%;
   font-size: 1.8em;
   color: #524B39;
   font-weight: 900;
