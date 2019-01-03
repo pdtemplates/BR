@@ -129,7 +129,6 @@ a.pd_div-wrapper {
 </style>
 <div class="Cardmember_PD">
   <div class="Cardmember_Inner-wrapper">
-    <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=48422&mlink=13846,,MOB_DR_BG_EDPU">
       <div class="channel"><span class="cardmember_copy">CARDMEMBER</span> <span class="exclusive_copy">EXCLUSIVE</span></div>
       <div class="Cardmember_Percent_Div">
         <div class="Cardmember_PD-Extra">EXTRA</div>
@@ -140,14 +139,6 @@ a.pd_div-wrapper {
     	<div class="Cardmember_PD-DiscountCopy">YOUR PURCHASE EVERY DAY</div>
     	<div class="Cardmember_PD-DiscountDetails">when you use your Gap Inc. Credit Card</div>
       <div class="Cardmember_PD-DiscountDetails2" style="color: #fff;font-size: .75em;font-weight: bold;letter-spacing: .025em;padding-top: .25em;">NO BANANA REPUBLIC MERCHANDISE EXCLUSIONS<br> NOW THROUGH JANUARY 31</div>
-    	<div class="Cardmember_PD-CTA-wrapper">
-    		<div class="Cardmember_PD-CTA">
-          <a href="/browse/category.do?cid=48422&mlink=80117,,MOB_DR_W_EDPU" mlink="MOB_DR_W_2">SHOP WOMEN</a>
-    		</div>
-    		<div class="Cardmember_PD-CTA">
-          <a href="/browse/category.do?cid=13846&mlink=48422,,MOB_DR_M_EDPU" mlink="MOB_DR_M_2">SHOP MEN</a>
-    		</div>
-    	</div>
-    </a>
+    	<div class="Cardmember_PD-CTA-wrapper"></div>
   </div>
 </div>
