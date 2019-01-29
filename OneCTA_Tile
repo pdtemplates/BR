@@ -5,8 +5,8 @@
 .OneCTA_Inner-wrapper .OneCTA-DollarSign { font-size: .5em; margin-bottom: .5em; position: relative; padding-right: .025em; vertical-align: top; font-weight: bold; }
 .OneCTA_Inner-wrapper .OneCTA-SubCopy { color: #DCDCDE; font-size: 1.5em; letter-spacing: .1em; font-weight: 600; line-height: 1.75em; padding-left: .75em; }
 .OneCTA_Inner-wrapper .OneCTA-CTA-wrapper { width: 100%; text-align: center }
-.OneCTA_Inner-wrapper .OneCTA-CTA-wrapper .CyberMonday2018-CTA { background-color: #DA0067; border-style: solid; border-width: 0.5px; display: inline-block; width: calc(50% - 36px); margin: 12px 4px 0 4px; vertical-align: top; padding: 6px 4px; letter-spacing: .1em; border-color: #da0067 }
-.OneCTA_Inner-wrapper .OneCTA-CTA-wrapper .CyberMonday2018-CTA a { font-size: 1em; font-weight: 700; color: #DCDCDE; text-decoration: none; width: 100%; display: block; }
+.OneCTA_Inner-wrapper .OneCTA-CTA-wrapper .OneCTA-CTA { background-color: #DA0067; border-style: solid; border-width: 0.5px; display: inline-block; width: calc(50% - 36px); margin: 12px 4px 0 4px; vertical-align: top; padding: 6px 4px; letter-spacing: .1em; border-color: #da0067 }
+.OneCTA_Inner-wrapper .OneCTA-CTA-wrapper .OneCTA-CTA a { font-size: 1em; font-weight: 700; color: #DCDCDE; text-decoration: none; width: 100%; display: block; }
 a.pd_div-wrapper { text-decoration:none; cursor:pointer; }
 </style>
 <div class="OneCTA_Tile">
