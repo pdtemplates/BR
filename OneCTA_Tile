@@ -1,7 +1,7 @@
 <style>
 .OneCTA_Tile { width:100%; height:100%; background-color:#144187; font-family: helvetica; text-align:left; position:relative; background-size: 100%; }
 .OneCTA_Inner-wrapper { width:98%; position:absolute; top:40%; left:50%; transform:translate(-50%,-50%); -webkit-transform:translate(-50%,-50%); -moz-transform:translate(-50%,-50%); }
-.OneCTA_Inner-wrapper .OneCTA-Headline { color: #DCDCDE; padding-top: .25em; padding-bottom: .25em; font-size: 3.25em; line-height: 1em; font-weight: 700; letter-spacing: .01em; text-transform: uppercase; padding-left: .75em }
+.OneCTA_Inner-wrapper .OneCTA-Headline { color: #DCDCDE; padding-top: .25em; padding-bottom: .25em; font-size: 2em; line-height: 1em; font-weight: 700; letter-spacing: .01em; text-transform: uppercase; padding-left: .75em }
 .OneCTA_Inner-wrapper .OneCTA-DollarSign { font-size: .5em; margin-bottom: .5em; position: relative; padding-right: .025em; vertical-align: top; font-weight: bold; }
 .OneCTA_Inner-wrapper .OneCTA-SubCopy { color: #DCDCDE; font-size: 1.5em; letter-spacing: .1em; font-weight: 600; line-height: 1.75em; padding-left: .75em; }
 .OneCTA_Inner-wrapper .OneCTA-CTA-wrapper { width: 100%; text-align: center }
