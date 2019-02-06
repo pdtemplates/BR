@@ -12,11 +12,11 @@ a.pd_div-wrapper_[PD_TILE_INDEX] { text-decoration:none; cursor:pointer; }
 <a class="pd_div-wrapper_[PD_TILE_INDEX]" mlink="MOB_DR_BG_1" href="/browse/category.do?cid=48422&mlink=5151,16176843,MOB_DR_BG_1&clink=16176843">
 <div class="channel">background link</div>
 </a>
-<div class="REACT_PD_Template-CTA-wrapper_[PD_TILE_INDEX]">
-<div class="REACT_PD_Template-CTA_[PD_TILE_INDEX]">
+<div class="REACT_PD_Template_[PD_TILE_INDEX]-CTA-wrapper">
+<div class="REACT_PD_Template_[PD_TILE_INDEX]-CTA">
 <a href="/browse/category.do?cid=48422&mlink=5151,16176843,MOB_DR_W_1&clink=16176843" mlink="MOB_DR_W_1">SHOP WOMEN</a>
 </div>
-<div class="REACT_PD_Template-CTA_[PD_TILE_INDEX]">
+<div class="REACT_PD_Template_[PD_TILE_INDEX]-CTA">
 <a href="/browse/category.do?cid=13846&mlink=5151,16176843,MOB_DR_M_1&clink=16176843" mlink="MOB_DR_M_1">SHOP MEN</a>
 </div>
 </div>
