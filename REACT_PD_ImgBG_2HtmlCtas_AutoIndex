@@ -14,10 +14,10 @@ a.pd_div-wrapper_[PD_TILE_INDEX] { text-decoration:none; cursor:pointer; }
 </a>
 <div class="REACT_PD_Template_[PD_TILE_INDEX]-CTA-wrapper">
 <div class="REACT_PD_Template_[PD_TILE_INDEX]-CTA">
-<a href="/browse/category.do?cid=48422&mlink=5151,16176843,MOB_DR_W_1&clink=16176843" mlink="MOB_DR_W_1">SHOP WOMEN</a>
+<a href="/browse/category.do?cid=48422&mlink=5151,16176843,MOB_DR_W_1&clink=16176843" mlink="MOB_DR_W_[PD_TILE_INDEX]">SHOP WOMEN</a>
 </div>
 <div class="REACT_PD_Template_[PD_TILE_INDEX]-CTA">
-<a href="/browse/category.do?cid=13846&mlink=5151,16176843,MOB_DR_M_1&clink=16176843" mlink="MOB_DR_M_1">SHOP MEN</a>
+<a href="/browse/category.do?cid=13846&mlink=5151,16176843,MOB_DR_M_1&clink=16176843" mlink="MOB_DR_M_[PD_TILE_INDEX]">SHOP MEN</a>
 </div>
 </div>
 </div>
